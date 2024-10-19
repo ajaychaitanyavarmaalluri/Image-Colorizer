@@ -1,0 +1,7 @@
+ABSTRACT: Image Colorization is the process of assigning colours to a grayscale image to make it more aesthetically appealing and perceptually meaningful. This task can be achieved through the application of Computer Vision and Deep
+Learning Techniques, mainly utilizing Convolutional Neural Networks (CNN). The primary objective of Colorization is to create lifelike and top-notch quality colour images that precisely depict the original colour scheme. CNN consist
+of multiple layers of interconnected neurons that process and analyse the image data. In the context of colorization, CNNs are trained on large datasets of colour images and their corresponding grayscale versions. The model then
+learns to extract features from the grayscale images and map them to their corresponding colour values. During the testing phase, the trained model takes a grayscale image as input and outputs a colorized version of the image.
+Colorization using CNNs has shown promising results in terms of producing realistic and accurate colour images. The method has potential applications in a variety of fields, such as film restoration, historical image colorization,
+and medical imaging. Additionally, the ability to automatically colorize images could save time and effort in manual colorization tasks. Colorization of images using Computer Vision and Deep Learning Techniques, specifically CNNs, has
+proven to be a promising method for converting Black and White Images into Colour Images.
